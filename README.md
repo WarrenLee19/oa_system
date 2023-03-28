@@ -7,7 +7,7 @@
 ```
 项目启动的流程：
 
-    cd oaRoom
+    cd oaSystem
     npm install 安装前端依赖
     npm run build 编译前端代码
     cd ..
