@@ -29,7 +29,7 @@
     "vue-draggable-resizable": "^1.7.2",
     "vue-fullcalendar": "^1.0.9",
     "vue-router": "^3.0.1",
-    "vue-socket.io": "^2.1.1-b",
+    "vue-socket.io": "^3.0.10",
     "vue2-editor": "^2.10.2",
     "vuex": "^3.0.1"
   },
