@@ -1,8 +1,7 @@
-﻿## 【毕业设计】做一个移动OA办公系统（Vue + Node + Mongodb）
+﻿## 做一个移动OA办公系统（Vue + Node + Mongodb）
 
 ### 说明
 
-> 该项目是自己的毕业设计
 ### 项目启动
 > 注意必须要有node、npm以及mongodb，项目默认mongodb IP地址为127.0.0.1:27017，可以在配置文件中修改。（oaServer\utils\database.js）
 ```
