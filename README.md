@@ -1,9 +1,9 @@
 ﻿## 做一个移动OA办公系统（Vue + Node + Mongodb）
 
 ### 说明
-前端采用 vue2全家桶 + vant + vuesocket.io
+客户端采用 vue2全家桶 + vant + vuesocket.io，管理端使用vue2全家桶 + element-ui
 
-后端采用express + MongoDB + socket.io
+后端服务采用express + MongoDB + socket.io
 
 ### 项目启动
 > 注意必须要有node、npm以及mongodb，项目默认mongodb IP地址为127.0.0.1:27017，可以在配置文件中修改。（oaServer\utils\database.js）
