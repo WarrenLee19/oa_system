@@ -7,7 +7,7 @@
     "create": "node ./init.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "body-parser": "~1.18.2",
     "compression": "^1.7.3",
     "cookie-parser": "~1.4.3",
